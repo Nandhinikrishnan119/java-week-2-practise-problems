@@ -1,7 +1,7 @@
 1. right to left
    
 import java.util.Scanner;
-public class Main {
+public class rightleft {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int num = scan.nextInt();
@@ -18,7 +18,7 @@ public class Main {
 2. left to right
 
 import java.util.Scanner;
-public class Main {
+public class leftright {
 	public static void main(String[] args) {
 	    Scanner scan = new Scanner(System.in);
         int n = scan.nextInt();
@@ -40,7 +40,7 @@ public class Main {
   3.count digit
 
   import java.util.Scanner;
-public class Main {
+public class count{
 	public static void main(String[] args) {
 	    Scanner scan = new Scanner(System.in);
         int n = scan.nextInt();
@@ -57,7 +57,7 @@ public class Main {
   4.sum of the digits
 
   import java.util.Scanner;
-public class Main {
+public class sumdig{
 	public static void main(String[] args) {
 	    Scanner scan = new Scanner(System.in);
         int n = scan.nextInt();
@@ -71,7 +71,7 @@ public class Main {
    5. Armstrong Number 
 
 import java.util.Scanner;
-public class Main {
+public class armstrongno{
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int number = scan.nextInt();
@@ -94,7 +94,7 @@ public class Main {
   6.Collatz Sequence 
 
 import java.util.Scanner;
-public class Main {
+public class collatz {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int num = scan.nextInt();
@@ -113,7 +113,7 @@ public class Main {
   7.Harshad
 
 import java.util.Scanner;
-public class Main {
+public class harshad{
 	public static void main(String[] args) {
 	    Scanner scan=new Scanner(System.in);
 	    int n = scan.nextInt();
@@ -134,7 +134,7 @@ public class Main {
    8. SpyNumber
 
 import java.util.Scanner;
-public class Main  {
+public class spyno {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int num = scan.nextInt();
@@ -157,7 +157,7 @@ public class Main  {
   9.NeonNumber
 
 import java.util.Scanner;
-public class Main {
+public class neonno {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int num = scan.nextInt();
@@ -178,7 +178,7 @@ public class Main {
     10. Palindrome Number
 
 import java.util.Scanner;
-public class Main {
+public class palindrome {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int num = scan.nextInt();
@@ -200,7 +200,7 @@ public class Main {
     11. Strong Number
 
 import java.util.Scanner;
-public class Main{
+public class strongno{
     public static void main(String[] args) {
         Scanner scanan = new Scanner(System.in);
         int num = sc.nextInt();
@@ -226,7 +226,7 @@ public class Main{
    12. Magic Number
 
 import java.util.Scanner;
-public class Main {
+public class magicno {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int num = scan.nextInt();
@@ -250,7 +250,7 @@ public class Main {
    13.Center Digit of the number
 
 import java.util.Scanner;
-public class Main{
+public class cendig{
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         String num = scan.next(); 
@@ -268,7 +268,7 @@ public class Main{
    14. Frequency of digit
 
 import java.util.Scanner;
-public class Main {
+public class freq {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         String num = scan.next();
@@ -289,7 +289,7 @@ public class Main {
  15.GCD (Euclidean)
 
 import java.util.Scanner;
-public class Main {
+public class gcd {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int a = scan.nextInt();
@@ -332,7 +332,7 @@ public class Main {
    17.Product Of Digits
 
 import java.util.Scanner;
-public class Main {
+public class prodsum {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int num = scan.nextInt();
@@ -349,7 +349,7 @@ public class Main {
    18.Sum Of Even Digits 
 
 import java.util.Scanner;
-public class Main {
+public class sumevendig {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int num = scan.nextInt();
